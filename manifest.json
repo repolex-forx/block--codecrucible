@@ -320,7 +320,9 @@
           "githubUrl": "https://github.com/subosito/gotenv",
           "source": "build_file:go.mod"
         }
-      ]
+      ],
+      "repolex": "aggregate/repolex/8a6299fe165e931bbdb59ae56f5a432b1f2d5992/chunk-001.nq.gz",
+      "dep": "dep/8a6299fe165e931bbdb59ae56f5a432b1f2d5992.nq.gz"
     }
   ],
   "commit": "commit/commit.nq.gz",
