@@ -167,6 +167,159 @@
       ],
       "ast": [
         "aggregate/ast/8a6299fe165e931bbdb59ae56f5a432b1f2d5992/chunk-001.nq.gz"
+      ],
+      "lsp": "aggregate/lsp/8a6299fe165e931bbdb59ae56f5a432b1f2d5992.nq.gz",
+      "dependencies": [
+        {
+          "packageName": "github.com/sabhiram/go-gitignore",
+          "ecosystem": "GO",
+          "version": "0.0.0-20210923224102-525f6e181f06",
+          "githubOrg": "sabhiram",
+          "githubRepo": "go-gitignore",
+          "githubUrl": "https://github.com/sabhiram/go-gitignore",
+          "source": "build_file:go.mod"
+        },
+        {
+          "packageName": "github.com/spf13/cobra",
+          "ecosystem": "GO",
+          "version": "1.10.2",
+          "githubOrg": "spf13",
+          "githubRepo": "cobra",
+          "githubCommit": "88b30ab89da2d0d0abb153818746c5a2d30eccec",
+          "githubTag": "v1.10.2",
+          "githubUrl": "https://github.com/spf13/cobra",
+          "source": "build_file:go.mod"
+        },
+        {
+          "packageName": "github.com/spf13/viper",
+          "ecosystem": "GO",
+          "version": "1.21.0",
+          "githubOrg": "spf13",
+          "githubRepo": "viper",
+          "githubCommit": "394040caccbdf5821fa6839386a35f0fb1b1ee9e",
+          "githubTag": "v1.21.0",
+          "githubUrl": "https://github.com/spf13/viper",
+          "source": "build_file:go.mod"
+        },
+        {
+          "packageName": "go.yaml.in/yaml/v3",
+          "ecosystem": "GO",
+          "version": "3.0.4",
+          "githubOrg": "yaml",
+          "githubRepo": "go-yaml",
+          "githubCommit": "c3552c15f996075a7634df5159d9161c67bf3d76",
+          "githubTag": "v3.0.4",
+          "githubUrl": "https://github.com/yaml/go-yaml",
+          "source": "build_file:go.mod"
+        },
+        {
+          "packageName": "github.com/fsnotify/fsnotify",
+          "ecosystem": "GO",
+          "version": "1.9.0",
+          "githubOrg": "fsnotify",
+          "githubRepo": "fsnotify",
+          "githubCommit": "ae0e7923765f64fb8061396db7edebb558cf6093",
+          "githubTag": "v1.9.0",
+          "githubUrl": "https://github.com/fsnotify/fsnotify",
+          "source": "build_file:go.mod"
+        },
+        {
+          "packageName": "github.com/go-viper/mapstructure/v2",
+          "ecosystem": "GO",
+          "version": "2.4.0",
+          "githubOrg": "go-viper",
+          "githubRepo": "mapstructure",
+          "githubCommit": "b9794a5f0e73d425210d6614ed833067029155f5",
+          "githubTag": "v2.4.0",
+          "githubUrl": "https://github.com/go-viper/mapstructure",
+          "source": "build_file:go.mod"
+        },
+        {
+          "packageName": "github.com/inconshreveable/mousetrap",
+          "ecosystem": "GO",
+          "version": "1.1.0",
+          "githubOrg": "inconshreveable",
+          "githubRepo": "mousetrap",
+          "githubCommit": "4e8053ee7ef85a6bd26368364a6d27f1641c1d21",
+          "githubTag": "v1.1.0",
+          "githubUrl": "https://github.com/inconshreveable/mousetrap",
+          "source": "build_file:go.mod"
+        },
+        {
+          "packageName": "github.com/pelletier/go-toml/v2",
+          "ecosystem": "GO",
+          "version": "2.2.4",
+          "githubOrg": "pelletier",
+          "githubRepo": "go-toml",
+          "githubCommit": "ee07c9203b72060f12e31c04ace80e8a187d5a67",
+          "githubTag": "v2.2.4",
+          "githubUrl": "https://github.com/pelletier/go-toml",
+          "source": "build_file:go.mod"
+        },
+        {
+          "packageName": "github.com/sagikazarmark/locafero",
+          "ecosystem": "GO",
+          "version": "0.11.0",
+          "githubOrg": "sagikazarmark",
+          "githubRepo": "locafero",
+          "githubCommit": "d051b254767db64f7c9b392375a86f2385879606",
+          "githubTag": "v0.11.0",
+          "githubUrl": "https://github.com/sagikazarmark/locafero",
+          "source": "build_file:go.mod"
+        },
+        {
+          "packageName": "github.com/sourcegraph/conc",
+          "ecosystem": "GO",
+          "version": "0.3.1-0.20240121214520-5f936abd7ae8",
+          "githubOrg": "sourcegraph",
+          "githubRepo": "conc",
+          "githubUrl": "https://github.com/sourcegraph/conc",
+          "source": "build_file:go.mod"
+        },
+        {
+          "packageName": "github.com/spf13/afero",
+          "ecosystem": "GO",
+          "version": "1.15.0",
+          "githubOrg": "spf13",
+          "githubRepo": "afero",
+          "githubCommit": "399bb34ad9fd8a252ad1d8bfaef96279b66dc774",
+          "githubTag": "v1.15.0",
+          "githubUrl": "https://github.com/spf13/afero",
+          "source": "build_file:go.mod"
+        },
+        {
+          "packageName": "github.com/spf13/cast",
+          "ecosystem": "GO",
+          "version": "1.10.0",
+          "githubOrg": "spf13",
+          "githubRepo": "cast",
+          "githubCommit": "fc73346bfc4e6597bc520fb6eea04360299e77d2",
+          "githubTag": "v1.10.0",
+          "githubUrl": "https://github.com/spf13/cast",
+          "source": "build_file:go.mod"
+        },
+        {
+          "packageName": "github.com/spf13/pflag",
+          "ecosystem": "GO",
+          "version": "1.0.10",
+          "githubOrg": "spf13",
+          "githubRepo": "pflag",
+          "githubCommit": "0491e5702ad2bb108bc519a5221bcc0f52aa9564",
+          "githubTag": "v1.0.10",
+          "githubUrl": "https://github.com/spf13/pflag",
+          "source": "build_file:go.mod"
+        },
+        {
+          "packageName": "github.com/subosito/gotenv",
+          "ecosystem": "GO",
+          "version": "1.6.0",
+          "githubOrg": "subosito",
+          "githubRepo": "gotenv",
+          "githubCommit": "14a05352a5cf0f66fd7cbce114374f56065891f0",
+          "githubTag": "v1.6.0",
+          "githubUrl": "https://github.com/subosito/gotenv",
+          "source": "build_file:go.mod"
+        }
       ]
     }
   ],
